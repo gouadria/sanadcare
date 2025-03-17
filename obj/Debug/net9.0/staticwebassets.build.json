@@ -1,0 +1,1979 @@
+{
+  "Version": 1,
+  "Hash": "L/ZK59xgreqLYyClWifEoNF1PYr4PPtMaX0PUmbVVVM=",
+  "Source": "SanadCare.API",
+  "BasePath": "_content/SanadCare.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SanadCare.API\\wwwroot",
+      "Source": "SanadCare.API",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nqjtmylsd7",
+      "Integrity": "L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\27e6cc3a-c444-49c8-a869-b1250abc839c.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/27e6cc3a-c444-49c8-a869-b1250abc839c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gs7tbvgggx",
+      "Integrity": "sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\27e6cc3a-c444-49c8-a869-b1250abc839c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\3921e92c-97d8-4cc6-b365-8809ce1cd25a.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/3921e92c-97d8-4cc6-b365-8809ce1cd25a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9yze2piqva",
+      "Integrity": "f2zPGwn6jS34RxXl4V9yTvgN1iSvtYkLsocYE570RoU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\3921e92c-97d8-4cc6-b365-8809ce1cd25a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\433e8ca6-1c01-4ef4-80ae-2bb72d061ee4.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/433e8ca6-1c01-4ef4-80ae-2bb72d061ee4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ts4iwxxjqm",
+      "Integrity": "MwMekabQeebX/OrIkUiw/p9SgPDRpZiO0s5g1yUWWVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\433e8ca6-1c01-4ef4-80ae-2bb72d061ee4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467.avif",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yekjgsag1j",
+      "Integrity": "5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467.avif"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\6197212e-c314-492a-9a82-c7d99fd82d12.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/6197212e-c314-492a-9a82-c7d99fd82d12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s5g6jfhsjv",
+      "Integrity": "UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\6197212e-c314-492a-9a82-c7d99fd82d12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\6961b69c-11b7-48b1-8e86-7210de78fd38.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/6961b69c-11b7-48b1-8e86-7210de78fd38#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27j2yn7usp",
+      "Integrity": "rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\6961b69c-11b7-48b1-8e86-7210de78fd38.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\7774f40d-899f-45af-9565-6dd29ce3c833.webp",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/7774f40d-899f-45af-9565-6dd29ce3c833#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5eu57im5tx",
+      "Integrity": "Hbjq6QIozPADX3EUIhBsQw5xu/edMWAIwmhKiMo6sjE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\7774f40d-899f-45af-9565-6dd29ce3c833.webp"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\7eed889f-4a6e-4a28-9f50-2aadf46725db.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/7eed889f-4a6e-4a28-9f50-2aadf46725db#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27j2yn7usp",
+      "Integrity": "rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\7eed889f-4a6e-4a28-9f50-2aadf46725db.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\8b1f69eb-606b-42cb-96d9-a0ef92324548.avif",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/8b1f69eb-606b-42cb-96d9-a0ef92324548#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yekjgsag1j",
+      "Integrity": "5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\8b1f69eb-606b-42cb-96d9-a0ef92324548.avif"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\953048c5-ce76-443e-bc14-c306416b5fe4.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/953048c5-ce76-443e-bc14-c306416b5fe4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gs7tbvgggx",
+      "Integrity": "sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\953048c5-ce76-443e-bc14-c306416b5fe4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\9da6fd3e-b746-4db8-8c5d-bf324f8f27dc.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/9da6fd3e-b746-4db8-8c5d-bf324f8f27dc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qjwqus0rre",
+      "Integrity": "ukre1EcofPWvYEynR5NACvqIynFerzPEhWIzkkQepTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\9da6fd3e-b746-4db8-8c5d-bf324f8f27dc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ad771278-57f9-4fbe-80ee-ed4bcee1dcd0.avif",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/ad771278-57f9-4fbe-80ee-ed4bcee1dcd0#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yekjgsag1j",
+      "Integrity": "5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\ad771278-57f9-4fbe-80ee-ed4bcee1dcd0.avif"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ae5710b4-2eed-4af4-a398-1bc6065b4f91.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/ae5710b4-2eed-4af4-a398-1bc6065b4f91#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jr0uy7yldy",
+      "Integrity": "oWLIt6UavY+2uUa5vJzr3PY77Sq6RhL5xpiQjgSGFoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\ae5710b4-2eed-4af4-a398-1bc6065b4f91.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\b632ab68-4494-4224-b574-3767c6f9305e.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/b632ab68-4494-4224-b574-3767c6f9305e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gs7tbvgggx",
+      "Integrity": "sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\b632ab68-4494-4224-b574-3767c6f9305e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\c4777604-e71b-4eee-9873-27b5697f351a.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/c4777604-e71b-4eee-9873-27b5697f351a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s5g6jfhsjv",
+      "Integrity": "UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\c4777604-e71b-4eee-9873-27b5697f351a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\d631ec61-b7dd-490c-9e91-18557209330b.avif",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/d631ec61-b7dd-490c-9e91-18557209330b#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yekjgsag1j",
+      "Integrity": "5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\d631ec61-b7dd-490c-9e91-18557209330b.avif"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\f1d61930-b30c-4439-99fc-d8af7dcbeeb9.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/f1d61930-b30c-4439-99fc-d8af7dcbeeb9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "es23vpdqx7",
+      "Integrity": "IvzlasA48j/3UwbrMg4MKrQM0A9PNtG57Y6W3qPuixA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\f1d61930-b30c-4439-99fc-d8af7dcbeeb9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ffe1f5c6-1df9-435d-b610-c429dad5ae91.jpg",
+      "SourceId": "SanadCare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SanadCare.api\\wwwroot\\",
+      "BasePath": "_content/SanadCare.API",
+      "RelativePath": "assets/ffe1f5c6-1df9-435d-b610-c429dad5ae91#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nqjtmylsd7",
+      "Integrity": "L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\ffe1f5c6-1df9-435d-b610-c429dad5ae91.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 03:41:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4.nqjtmylsd7.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 03:41:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nqjtmylsd7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/0dc7ff78-7ff3-4d38-9d82-94bb49adfcb4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/27e6cc3a-c444-49c8-a869-b1250abc839c.gs7tbvgggx.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\27e6cc3a-c444-49c8-a869-b1250abc839c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:28:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gs7tbvgggx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/27e6cc3a-c444-49c8-a869-b1250abc839c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/27e6cc3a-c444-49c8-a869-b1250abc839c.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\27e6cc3a-c444-49c8-a869-b1250abc839c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:28:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/3921e92c-97d8-4cc6-b365-8809ce1cd25a.9yze2piqva.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\3921e92c-97d8-4cc6-b365-8809ce1cd25a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2zPGwn6jS34RxXl4V9yTvgN1iSvtYkLsocYE570RoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:32:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9yze2piqva"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/3921e92c-97d8-4cc6-b365-8809ce1cd25a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2zPGwn6jS34RxXl4V9yTvgN1iSvtYkLsocYE570RoU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/3921e92c-97d8-4cc6-b365-8809ce1cd25a.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\3921e92c-97d8-4cc6-b365-8809ce1cd25a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2zPGwn6jS34RxXl4V9yTvgN1iSvtYkLsocYE570RoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:32:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2zPGwn6jS34RxXl4V9yTvgN1iSvtYkLsocYE570RoU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/433e8ca6-1c01-4ef4-80ae-2bb72d061ee4.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\433e8ca6-1c01-4ef4-80ae-2bb72d061ee4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MwMekabQeebX/OrIkUiw/p9SgPDRpZiO0s5g1yUWWVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:35:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwMekabQeebX/OrIkUiw/p9SgPDRpZiO0s5g1yUWWVo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/433e8ca6-1c01-4ef4-80ae-2bb72d061ee4.ts4iwxxjqm.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\433e8ca6-1c01-4ef4-80ae-2bb72d061ee4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MwMekabQeebX/OrIkUiw/p9SgPDRpZiO0s5g1yUWWVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:35:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ts4iwxxjqm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/433e8ca6-1c01-4ef4-80ae-2bb72d061ee4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwMekabQeebX/OrIkUiw/p9SgPDRpZiO0s5g1yUWWVo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467.yekjgsag1j.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yekjgsag1j"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/5d5337b1-8eb1-4fa9-8f7b-3d0e75af7467.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/6197212e-c314-492a-9a82-c7d99fd82d12.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\6197212e-c314-492a-9a82-c7d99fd82d12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "405445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:15:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/6197212e-c314-492a-9a82-c7d99fd82d12.s5g6jfhsjv.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\6197212e-c314-492a-9a82-c7d99fd82d12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "405445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:15:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s5g6jfhsjv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/6197212e-c314-492a-9a82-c7d99fd82d12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/6961b69c-11b7-48b1-8e86-7210de78fd38.27j2yn7usp.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\6961b69c-11b7-48b1-8e86-7210de78fd38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:29:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27j2yn7usp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/6961b69c-11b7-48b1-8e86-7210de78fd38.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/6961b69c-11b7-48b1-8e86-7210de78fd38.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\6961b69c-11b7-48b1-8e86-7210de78fd38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:29:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/7774f40d-899f-45af-9565-6dd29ce3c833.5eu57im5tx.webp",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\7774f40d-899f-45af-9565-6dd29ce3c833.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hbjq6QIozPADX3EUIhBsQw5xu/edMWAIwmhKiMo6sjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eu57im5tx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/7774f40d-899f-45af-9565-6dd29ce3c833.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hbjq6QIozPADX3EUIhBsQw5xu/edMWAIwmhKiMo6sjE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/7774f40d-899f-45af-9565-6dd29ce3c833.webp",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\7774f40d-899f-45af-9565-6dd29ce3c833.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hbjq6QIozPADX3EUIhBsQw5xu/edMWAIwmhKiMo6sjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hbjq6QIozPADX3EUIhBsQw5xu/edMWAIwmhKiMo6sjE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/7eed889f-4a6e-4a28-9f50-2aadf46725db.27j2yn7usp.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\7eed889f-4a6e-4a28-9f50-2aadf46725db.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 03:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27j2yn7usp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/7eed889f-4a6e-4a28-9f50-2aadf46725db.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/7eed889f-4a6e-4a28-9f50-2aadf46725db.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\7eed889f-4a6e-4a28-9f50-2aadf46725db.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 03:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rtvysq2KFGok2D6oj/cK/sQfHKZnQeOsglxDTmmQxxo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/8b1f69eb-606b-42cb-96d9-a0ef92324548.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\8b1f69eb-606b-42cb-96d9-a0ef92324548.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/8b1f69eb-606b-42cb-96d9-a0ef92324548.yekjgsag1j.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\8b1f69eb-606b-42cb-96d9-a0ef92324548.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yekjgsag1j"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/8b1f69eb-606b-42cb-96d9-a0ef92324548.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/953048c5-ce76-443e-bc14-c306416b5fe4.gs7tbvgggx.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\953048c5-ce76-443e-bc14-c306416b5fe4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:27:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gs7tbvgggx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/953048c5-ce76-443e-bc14-c306416b5fe4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/953048c5-ce76-443e-bc14-c306416b5fe4.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\953048c5-ce76-443e-bc14-c306416b5fe4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:27:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/9da6fd3e-b746-4db8-8c5d-bf324f8f27dc.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\9da6fd3e-b746-4db8-8c5d-bf324f8f27dc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ukre1EcofPWvYEynR5NACvqIynFerzPEhWIzkkQepTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:44:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ukre1EcofPWvYEynR5NACvqIynFerzPEhWIzkkQepTc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/9da6fd3e-b746-4db8-8c5d-bf324f8f27dc.qjwqus0rre.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\9da6fd3e-b746-4db8-8c5d-bf324f8f27dc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ukre1EcofPWvYEynR5NACvqIynFerzPEhWIzkkQepTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:44:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qjwqus0rre"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/9da6fd3e-b746-4db8-8c5d-bf324f8f27dc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ukre1EcofPWvYEynR5NACvqIynFerzPEhWIzkkQepTc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/ad771278-57f9-4fbe-80ee-ed4bcee1dcd0.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ad771278-57f9-4fbe-80ee-ed4bcee1dcd0.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:09:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/ad771278-57f9-4fbe-80ee-ed4bcee1dcd0.yekjgsag1j.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ad771278-57f9-4fbe-80ee-ed4bcee1dcd0.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:09:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yekjgsag1j"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/ad771278-57f9-4fbe-80ee-ed4bcee1dcd0.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/ae5710b4-2eed-4af4-a398-1bc6065b4f91.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ae5710b4-2eed-4af4-a398-1bc6065b4f91.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oWLIt6UavY+2uUa5vJzr3PY77Sq6RhL5xpiQjgSGFoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oWLIt6UavY+2uUa5vJzr3PY77Sq6RhL5xpiQjgSGFoo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/ae5710b4-2eed-4af4-a398-1bc6065b4f91.jr0uy7yldy.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ae5710b4-2eed-4af4-a398-1bc6065b4f91.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oWLIt6UavY+2uUa5vJzr3PY77Sq6RhL5xpiQjgSGFoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jr0uy7yldy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/ae5710b4-2eed-4af4-a398-1bc6065b4f91.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oWLIt6UavY+2uUa5vJzr3PY77Sq6RhL5xpiQjgSGFoo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/b632ab68-4494-4224-b574-3767c6f9305e.gs7tbvgggx.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\b632ab68-4494-4224-b574-3767c6f9305e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 03:36:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gs7tbvgggx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/b632ab68-4494-4224-b574-3767c6f9305e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/b632ab68-4494-4224-b574-3767c6f9305e.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\b632ab68-4494-4224-b574-3767c6f9305e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 03:36:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJNhu/D5vGl28ZW+MvEmD5gpZnR9maszW2Yf1iruRPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/c4777604-e71b-4eee-9873-27b5697f351a.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\c4777604-e71b-4eee-9873-27b5697f351a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "405445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/c4777604-e71b-4eee-9873-27b5697f351a.s5g6jfhsjv.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\c4777604-e71b-4eee-9873-27b5697f351a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "405445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s5g6jfhsjv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/c4777604-e71b-4eee-9873-27b5697f351a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDbpUUVlHn8/baVrVdwWfLXw7uzlEoFwxMSsaa5LE1A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/d631ec61-b7dd-490c-9e91-18557209330b.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\d631ec61-b7dd-490c-9e91-18557209330b.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/d631ec61-b7dd-490c-9e91-18557209330b.yekjgsag1j.avif",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\d631ec61-b7dd-490c-9e91-18557209330b.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:55:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yekjgsag1j"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/d631ec61-b7dd-490c-9e91-18557209330b.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nGGqJTiRALe3fbgSOv6xCpBSmNFi5ZM2wDDDjbvuaQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/f1d61930-b30c-4439-99fc-d8af7dcbeeb9.es23vpdqx7.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\f1d61930-b30c-4439-99fc-d8af7dcbeeb9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IvzlasA48j/3UwbrMg4MKrQM0A9PNtG57Y6W3qPuixA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "es23vpdqx7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/f1d61930-b30c-4439-99fc-d8af7dcbeeb9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IvzlasA48j/3UwbrMg4MKrQM0A9PNtG57Y6W3qPuixA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/f1d61930-b30c-4439-99fc-d8af7dcbeeb9.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\f1d61930-b30c-4439-99fc-d8af7dcbeeb9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IvzlasA48j/3UwbrMg4MKrQM0A9PNtG57Y6W3qPuixA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IvzlasA48j/3UwbrMg4MKrQM0A9PNtG57Y6W3qPuixA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/ffe1f5c6-1df9-435d-b610-c429dad5ae91.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ffe1f5c6-1df9-435d-b610-c429dad5ae91.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:30:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/ffe1f5c6-1df9-435d-b610-c429dad5ae91.nqjtmylsd7.jpg",
+      "AssetFile": "C:\\Users\\User\\SanadCare.api\\wwwroot\\assets\\ffe1f5c6-1df9-435d-b610-c429dad5ae91.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 19:30:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nqjtmylsd7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/ffe1f5c6-1df9-435d-b610-c429dad5ae91.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/f29lX8H74ID2p2/9AOm9CA9nj9KwxBr5uYiOXYfRo="
+        }
+      ]
+    }
+  ]
+}

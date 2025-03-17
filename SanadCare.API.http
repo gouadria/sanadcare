@@ -1,0 +1,6 @@
+@SanadCare.API_HostAddress = http://localhost:5237
+
+GET {{SanadCare.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
